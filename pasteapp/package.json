@@ -1,0 +1,25 @@
+{
+  "name": "pasteapp",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.26.2",
+    "@reduxjs/toolkit": "^2.2.7",
+    "react-redux": "^9.1.2"
+  },
+  "devDependencies": {
+    "vite": "^5.4.0",
+    "@vitejs/plugin-react": "^4.3.1",
+    "tailwindcss": "^3.4.19",
+    "postcss": "^8.4.47",
+    "autoprefixer": "^10.4.20"
+  }
+}
